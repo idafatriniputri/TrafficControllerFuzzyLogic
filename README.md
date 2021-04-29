@@ -1,4 +1,8 @@
-# Intelligent Traffic Controller Using Fuzzy Logic
+#Ida Fatrini Putri
+#1184113
+#D4 TI 3A
+
+#Intelligent Traffic Controller Using Fuzzy Logic
 
 The purpose of this project is to address the design and implementation of an intelligent traffic light system based on fuzzy logic technology. Using Python, a fuzzy logic system has been developed to determine the wait time of a typical traffic junction.
 
